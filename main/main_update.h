@@ -8,4 +8,6 @@ void gui_task(void *pvParameter);
 
 void main_logic_task(void *pvParameter);
 
+void hardware_init_task(void *pvParameters);
+
 #endif // MAIN_UPDATE_H
